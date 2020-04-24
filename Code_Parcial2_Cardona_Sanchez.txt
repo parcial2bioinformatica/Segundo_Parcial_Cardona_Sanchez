@@ -1,0 +1,8 @@
+
+git clone https://github.com/parcial2bioinformatica/Segundo_Parcial_Cardona_Sanchez.git
+mv ~/Desktop/Parcial_2_Bioinf.docx .
+mv ~/Desktop/Code_Parcial2_Cardona_Sanchez.txt .
+git add .
+git commit -m "Este es el archivo que describe el proyecto de Cardona y Sanchez"
+git push origin master
+#Se ingresan las credenciales de acceso
